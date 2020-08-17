@@ -1,0 +1,8 @@
+{
+  id: @user.id,
+  name: @user.name,
+  department: @user.department,
+  email: @user.email,
+  updated_at: @user.updated_at,
+
+}

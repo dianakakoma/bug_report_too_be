@@ -1,0 +1,9 @@
+@users.map do |user|
+  {
+    id: user.id,
+    name: user.name,
+    email: user.email,
+    department: user.department,
+    created_at: user.created_at,
+  }
+end
